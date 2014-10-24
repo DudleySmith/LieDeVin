@@ -1,0 +1,15 @@
+<settings>
+	<Window>
+		<Height>576</Height>
+		<Width>1024</Width>
+	</Window>
+	<OPC>
+		<address>192.168.3.102</address>
+	<port>7890</port>
+	</OPC>
+<settings/>
+<Syphon>
+		<server>Screen 1</server>
+		<app>Millumin</app>
+	</Syphon>
+</settings>
